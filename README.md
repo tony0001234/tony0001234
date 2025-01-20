@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Anthony
+#### Soy estudiante de ingenieria en sistemas en la UMG
+![Soy estudiante de ingenieria en sistemas en la UMG](https://github.com/tony0001234/tony0001234.git)
+
+Estoy en mi 6to semestre finalizado, llevo casi 4 años trabajando en el area de tecnico de refrigeracion y pienso que es el momento de comenzar a buscar empleo de la carrera que estoy cursando.
+Entre mis experiencias de trabajo tambien esta despachador en un negocio pequeño familiar de panaderia, tengo conocimiento en primeros auxilios, diplomado en robotica y parcipe en 2018 en la seleccion nacional para competicion de robotica por parte de la universidad galileo.
+
+Habilidades: C++ / JAVA / JS / HTML / CSS / ARDUINO ID / PYTHON / SQL / LINUX / PIC / PICAXE
+
+- 🔭 Estoy trabajando en this page. 
 
 <!--
 **tony0001234/tony0001234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
