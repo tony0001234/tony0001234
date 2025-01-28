@@ -17,10 +17,6 @@ Habilidades: C y derviados / JAVA / JS / HTML / CSS / ARDUINO ID / PYTHON / SQL 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tony0001234&show_icons=true&count_private=true)  
 
-
-<!--
-**tony0001234/tony0001234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
