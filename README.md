@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Anthony Fabian Ramirez Orellana
 #### Soy estudiante de ingenieria en sistemas en la UMG
 
-Estoy en mi 6to semestre finalizado, llevo casi 4 años trabajando en el area de tecnico de refrigeracion y pienso que es el momento de comenzar a buscar empleo de la carrera que estoy cursando.
+Estoy en mi 6to semestre finalizado, llevo 4 años trabajando en el area de tecnico de refrigeracion y pienso que es el momento de comenzar a buscar empleo de la carrera que estoy cursando.
 Entre mis experiencias de trabajo tambien esta despachador en un negocio pequeño familiar de panaderia, tengo conocimiento en primeros auxilios, diplomado en robotica y parcipe en 2018 en la seleccion nacional para competicion de robotica por parte de la universidad galileo.
 
 Habilidades: C++ / JAVA / JS / HTML / CSS / ARDUINO ID / PYTHON / SQL / LINUX / PIC / PICAXE
